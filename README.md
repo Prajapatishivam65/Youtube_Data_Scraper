@@ -50,7 +50,7 @@ The YouTube Data Scraper is a web application built with Next.js that allows use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/youtubescrape.git
+   git clone https://github.com/Prajapatishivam65/Youtube_Data_Scraper.git
    cd youtubescrape
    ```
 
